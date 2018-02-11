@@ -1,0 +1,7 @@
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\bin\Debug\ConsoleClassAndEnc.exe.config
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\bin\Debug\ConsoleClassAndEnc.exe
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\bin\Debug\ConsoleClassAndEnc.pdb
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\obj\Debug\ConsoleClassAndEnc.csprojResolveAssemblyReference.cache
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\obj\Debug\ConsoleClassAndEnc.csproj.CoreCompileInputs.cache
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\obj\Debug\ConsoleClassAndEnc.exe
+c:\users\p502\source\repos\ConsoleClassAndEncSolution\ConsoleClassAndEnc\obj\Debug\ConsoleClassAndEnc.pdb
