@@ -1,0 +1,7 @@
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\bin\Debug\11.02 AllEx.exe.config
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\bin\Debug\11.02 AllEx.exe
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\bin\Debug\11.02 AllEx.pdb
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\obj\Debug\11.02 AllEx.csprojResolveAssemblyReference.cache
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\obj\Debug\11.02 AllEx.csproj.CoreCompileInputs.cache
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\obj\Debug\11.02 AllEx.exe
+c:\users\p502\source\repos\11.02 AllEx\11.02 AllEx\obj\Debug\11.02 AllEx.pdb
