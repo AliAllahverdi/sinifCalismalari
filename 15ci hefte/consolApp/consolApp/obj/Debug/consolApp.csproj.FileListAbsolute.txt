@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\bin\Debug\consolApp.exe.config
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\bin\Debug\consolApp.exe
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\bin\Debug\consolApp.pdb
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\obj\Debug\consolApp.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\obj\Debug\consolApp.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\obj\Debug\consolApp.exe
+C:\Users\P502\Desktop\ali\15ci hefte\consolApp\consolApp\obj\Debug\consolApp.pdb
