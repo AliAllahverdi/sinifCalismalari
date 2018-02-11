@@ -1,3 +1,3 @@
 # sinifCalismalari
 
-Sinif Tapsiriqlari toplanmasi ucun acilib
+Sinif Tapsiriqlarinin toplanmasi ucun acilib
