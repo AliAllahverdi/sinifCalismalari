@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\bin\Debug\linktapsiriqSinif.exe.config
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\bin\Debug\linktapsiriqSinif.exe
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\bin\Debug\linktapsiriqSinif.pdb
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\obj\Debug\linktapsiriqSinif.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\obj\Debug\linktapsiriqSinif.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\obj\Debug\linktapsiriqSinif.exe
+C:\Users\P502\Desktop\ali\linktapsiriqSinif\linktapsiriqSinif\obj\Debug\linktapsiriqSinif.pdb
