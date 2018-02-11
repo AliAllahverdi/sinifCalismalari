@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\bin\Debug\16 hefte.exe.config
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\bin\Debug\16 hefte.exe
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\bin\Debug\16 hefte.pdb
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\obj\Debug\16 hefte.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\obj\Debug\16 hefte.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\obj\Debug\16 hefte.exe
+C:\Users\P502\Desktop\ali\16 hefte solution\16 hefte\obj\Debug\16 hefte.pdb
