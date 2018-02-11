@@ -1,0 +1,14 @@
+C:\Users\P502\source\repos\refTekrar\refTekrar\bin\Debug\refTekrar.exe.config
+C:\Users\P502\source\repos\refTekrar\refTekrar\bin\Debug\refTekrar.exe
+C:\Users\P502\source\repos\refTekrar\refTekrar\bin\Debug\refTekrar.pdb
+C:\Users\P502\source\repos\refTekrar\refTekrar\obj\Debug\refTekrar.csprojResolveAssemblyReference.cache
+C:\Users\P502\source\repos\refTekrar\refTekrar\obj\Debug\refTekrar.csproj.CoreCompileInputs.cache
+C:\Users\P502\source\repos\refTekrar\refTekrar\obj\Debug\refTekrar.exe
+C:\Users\P502\source\repos\refTekrar\refTekrar\obj\Debug\refTekrar.pdb
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\bin\Debug\refTekrar.exe.config
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\bin\Debug\refTekrar.exe
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\bin\Debug\refTekrar.pdb
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\obj\Debug\refTekrar.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\obj\Debug\refTekrar.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\obj\Debug\refTekrar.exe
+C:\Users\P502\Desktop\ali\refTekrar\refTekrar\obj\Debug\refTekrar.pdb
