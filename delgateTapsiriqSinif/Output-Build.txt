@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: delgateTapsiriqSinif, Configuration: Debug Any CPU ------
+1>C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\Form1.cs(83,17,83,20): warning CS0219: The variable 'cem' is assigned but its value is never used
+1>  delgateTapsiriqSinif -> C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\bin\Debug\delgateTapsiriqSinif.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

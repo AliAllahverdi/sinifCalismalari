@@ -1,0 +1,10 @@
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.Form1.resources
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.Properties.Resources.resources
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.csproj.GenerateResource.Cache
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\bin\Debug\delgateTapsiriqSinif.exe.config
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\bin\Debug\delgateTapsiriqSinif.exe
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\bin\Debug\delgateTapsiriqSinif.pdb
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.exe
+C:\Users\P502\Desktop\ali\delgateTapsiriqSinif\delgateTapsiriqSinif\obj\Debug\delgateTapsiriqSinif.pdb
