@@ -1,0 +1,10 @@
+C:\Users\P502\source\repos\film rezerv\film rezerv\bin\Debug\film rezerv.exe.config
+C:\Users\P502\source\repos\film rezerv\film rezerv\bin\Debug\film rezerv.exe
+C:\Users\P502\source\repos\film rezerv\film rezerv\bin\Debug\film rezerv.pdb
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film rezerv.csprojResolveAssemblyReference.cache
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film_rezerv.Form1.resources
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film_rezerv.Properties.Resources.resources
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film rezerv.csproj.GenerateResource.Cache
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film rezerv.csproj.CoreCompileInputs.cache
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film rezerv.exe
+C:\Users\P502\source\repos\film rezerv\film rezerv\obj\Debug\film rezerv.pdb

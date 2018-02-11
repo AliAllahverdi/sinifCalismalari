@@ -1,0 +1,7 @@
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\bin\Debug\sinif 2.3.exe.config
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\bin\Debug\sinif 2.3.exe
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\bin\Debug\sinif 2.3.pdb
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\obj\Debug\sinif 2.3.csprojResolveAssemblyReference.cache
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\obj\Debug\sinif 2.3.csproj.CoreCompileInputs.cache
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\obj\Debug\sinif 2.3.exe
+C:\Users\P502\source\repos\sinif 2.3\sinif 2.3\obj\Debug\sinif 2.3.pdb

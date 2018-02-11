@@ -1,0 +1,7 @@
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\bin\Debug\ConsoleArray2.exe.config
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\bin\Debug\ConsoleArray2.exe
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\bin\Debug\ConsoleArray2.pdb
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\obj\Debug\ConsoleArray2.csprojResolveAssemblyReference.cache
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\obj\Debug\ConsoleArray2.csproj.CoreCompileInputs.cache
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\obj\Debug\ConsoleArray2.exe
+c:\users\p502\source\repos\ConsoleArray2\ConsoleArray2\obj\Debug\ConsoleArray2.pdb
