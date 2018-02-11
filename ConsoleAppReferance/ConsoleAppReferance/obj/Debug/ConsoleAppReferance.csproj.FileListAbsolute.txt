@@ -1,0 +1,7 @@
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\bin\Debug\ConsoleAppReferance.exe.config
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\bin\Debug\ConsoleAppReferance.exe
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\bin\Debug\ConsoleAppReferance.pdb
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\obj\Debug\ConsoleAppReferance.csprojResolveAssemblyReference.cache
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\obj\Debug\ConsoleAppReferance.csproj.CoreCompileInputs.cache
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\obj\Debug\ConsoleAppReferance.exe
+C:\Users\P502\source\repos\ConsoleAppReferance\ConsoleAppReferance\obj\Debug\ConsoleAppReferance.pdb
