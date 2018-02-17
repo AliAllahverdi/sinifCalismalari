@@ -1,0 +1,10 @@
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\bin\Debug\taskThreat.exe.config
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\bin\Debug\taskThreat.exe
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\bin\Debug\taskThreat.pdb
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.csprojResolveAssemblyReference.cache
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.Form1.resources
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.Properties.Resources.resources
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.csproj.GenerateResource.Cache
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.csproj.CoreCompileInputs.cache
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.exe
+c:\users\p502\source\repos\taskThreat17.02\taskThreat\obj\Debug\taskThreat.pdb
