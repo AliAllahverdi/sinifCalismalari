@@ -1,0 +1,10 @@
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\bin\Debug\txtSystem.exe.config
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\bin\Debug\txtSystem.exe
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\bin\Debug\txtSystem.pdb
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.Form1.resources
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.Properties.Resources.resources
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.csproj.GenerateResource.Cache
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.exe
+C:\Users\P502\Desktop\ali\txtSystemTaskClass\txtSystem\obj\Debug\txtSystem.pdb

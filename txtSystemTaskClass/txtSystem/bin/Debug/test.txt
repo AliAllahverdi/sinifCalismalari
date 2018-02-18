@@ -1,0 +1,15 @@
+Sual 1: Dunyada nece iqlim tipi var?
+13
+9
+10
+
+
+Sual 2: Yer kuresine en yaxin ulduz hansidir?
+Gunesh
+Alfa
+Mega
+
+Sual 3: Bizim qrupun adi nedir?
+P502
+P503
+D502
