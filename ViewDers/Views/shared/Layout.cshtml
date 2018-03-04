@@ -1,0 +1,25 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Layout</title>
+
+    @RenderSection("css", false)
+</head>
+<body>
+    <div class="bread"> 
+        @RenderSection("brd", false)
+    </div>
+    <nav>
+        @Html.ActionLink("Home","Index","Home")
+        @Html.ActionLink("Message", "Show", "Home")
+        @Html.ActionLink("Our About", "About", "Home")
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>Copyright ALI</footer>
+</body>
+</html>
