@@ -1,0 +1,25 @@
+﻿@model List<models.Models.FilmViewModel>
+@{
+    ViewBag.Title = "FilmDetails";
+}
+
+<h2>View</h2>
+@*<h3>
+    @ViewData["testData"]
+</h3>*@
+@if (Model != null)
+{
+    foreach(var filmdata in Model)
+    {
+        <div>  @filmdata.FilmsDetails</div>
+    }
+}
+    <form method="post">
+        <input name="title" />
+        <input name="author"/>
+        <input name="year" />
+        <button type="submit">Gonder</button>
+        
+
+    </form>
+
